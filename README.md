@@ -1,5 +1,7 @@
 # Sales-and-Returns-Analysis-B.I :computer: :office: :man_scientist:
 
+![img.png](https://github.com/M-MSilva/Sales-and-Returns-Analysis---B.I/blob/main/image/img.png) 
+
 ## Sobre este projeto
 
 Projeto construído em Power BI com a finalidade de realizar análise de mercado, para compreender sobre as vendas e devoluções da empresa fictícea. A análise feita se encontra hospedada no site [Dashboard](https://sites.google.com/view/dashmm/home).
