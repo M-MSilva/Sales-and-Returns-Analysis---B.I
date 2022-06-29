@@ -8,11 +8,11 @@ Projeto construído em Power BI com a finalidade de realizar análise de mercado
 
 ## Aplicações 
 
-Com a alteração do conjunto de dados, o projeto vigente pode ser utilizado para corroborar com sua empresa para realizar uma análise de negócios em relaçõa as vendas e as devoluções. Apesar deste programa fazer parte do meu portfólio pessoal sinta-se à vontade para utilizá-lo em estudos, reparos e melhorias. :call_me_hand:
+Com a alteração do conjunto de dados, o projeto vigente pode ser utilizado para corroborar com sua empresa para realizar uma análise de negócios em relação as vendas e as devoluções. Apesar deste programa fazer parte do meu portfólio pessoal sinta-se à vontade para utilizá-lo em estudos, reparos e melhorias. :call_me_hand:
 
 ## Motivação
 
-Este projeto foi criado para testar minhas habilidades em Power Bi na criação de Dashboards, com ele foi possível entender sobre tratamento de dados, visualização de dados e análise de negócios seja em relaçõa so lucro ou a perda. O conjunto de dados foi retirada do site [hashtagtreinamentos](https://pages.hashtagtreinamentos.com/arquivo-pbi-1ga91tx_4z-g9fyolfguld6hp95ih7w14?origemurl=hashtag_yt_org_planilhapbi_UFGe25gydxo) e foi utilizado em um dos cursos que fiz ao longo da minha vida.  :smiley:
+Este projeto foi criado para testar minhas habilidades em Power Bi na criação de Dashboards, com ele foi possível entender sobre tratamento de dados, visualização de dados e análise de negócios seja em relação so lucro ou a perda. O conjunto de dados foi retirada do site [hashtagtreinamentos](https://pages.hashtagtreinamentos.com/arquivo-pbi-1ga91tx_4z-g9fyolfguld6hp95ih7w14?origemurl=hashtag_yt_org_planilhapbi_UFGe25gydxo) e foi utilizado em um dos cursos que fiz ao longo da minha vida.  :smiley:
 
 ## Funcionalidades
 
